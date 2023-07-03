@@ -11,3 +11,6 @@ The app will be exposed on localhost:5000
 
 create volumes with
 `docker volume create <volume-name>`
+
+run docker db and express containers
+`docker-compose up`
